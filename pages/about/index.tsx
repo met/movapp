@@ -41,7 +41,7 @@ const About = () => {
       </Head>
       <div className="max-w-7xl m-auto">
         <h1 className="text-primary-blue">
-          <Trans className="block my-2">{t('about_page.title')}</Trans>
+          <Trans className="block my-2">XX{t('about_page.title')}XX</Trans>
         </h1>
         <h2 className={heading_style}>
           <Trans>{t('about_page.movapp_goal_title')}</Trans>
