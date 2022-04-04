@@ -52,6 +52,7 @@ export const KidsTranslationsContainer = ({
   const secondaryTranslation = languageTranslation[otherLanguage].translation;
 
   const playAudio = (translation: string, language: Language) => {
+    if (language === "cs") { language = "sk"; } // slovak version audio hack
     const audio = playGoogleTTSAudio(language, translation, player);
     setPlayer(audio);
   };
