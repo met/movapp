@@ -52,7 +52,7 @@ export const KidsTranslationsContainer = ({
   const secondaryTranslation = languageTranslation[otherLanguage].translation;
 
   const playAudio = (translation: string, language: Language) => {
-    const audio = playGoogleTTSAudio(language, translation, player);
+    const audio = playGoogleTTSAudio(language, translation, player); // slovak demo version audio hack
     setPlayer(audio);
   };
 

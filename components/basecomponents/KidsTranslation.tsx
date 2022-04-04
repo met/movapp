@@ -10,7 +10,7 @@ interface KidsTranslationProps {
   image: string;
   currentLanguage: Language;
   // eslint-disable-next-line no-unused-vars
-  playAudio: (translation: string, language: Language) => void;
+  playAudio: (translation: string, language: any) => void;
 }
 
 export const KidsTranslation = ({ transcription, translation, currentLanguage, playAudio }: KidsTranslationProps): JSX.Element => {
@@ -32,7 +32,7 @@ export const KidsTranslation = ({ transcription, translation, currentLanguage, p
         <p className="self-start w-full font-semibold">{translation}</p>
         <p className="text-gray-500">{`[ ${transcription} ]`}</p>
       </div>
-      <button onClick={() => playAudio(translation, currentLanguage)} aria-label={t('utils.play') + ' ' + translation}>
+      <button onClick={() => playAudio(translation, (currentLanguage === 'cs') ? 'sk' : currentLanguage)} aria-label={t('utils.play') + ' ' + translation}>
         <PlayKidsIcon className="cursor-pointer active:scale-75 transition-all duration-300" />
       </button>
     </div>

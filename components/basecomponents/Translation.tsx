@@ -27,6 +27,7 @@ export const Translation = ({
       player.pause();
       player.currentTime = 0;
     }
+    if (language === "cs") { language = "sk"; } // slovak version audio hack
     const source = `https://translate.google.com/translate_tts?tl=${language}&q=${encodeURIComponent(text)}&client=tw-ob`;
     const audio = new Audio(source);
 
