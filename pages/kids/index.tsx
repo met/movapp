@@ -1,7 +1,7 @@
 import { useTranslation } from 'next-i18next';
 import Head from 'next/head';
 import React from 'react';
-import kidsWords from '../../data/translations/pro-deti.json';
+import kidsWords from '../../data/translations/pro-deti_sk.json';
 import { Button } from '../../components/basecomponents/Button';
 import { KidsTranslationsContainer } from '../../components/basecomponents/KidsTranslationContainer';
 export { getStaticProps } from '../../utils/localization';

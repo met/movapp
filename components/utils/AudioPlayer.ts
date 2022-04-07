@@ -33,7 +33,11 @@ export class AudioPlayer {
   };
 
   getGoogleTTSAudio = (text: string, language: Language) => {
-    const source = `https://translate.google.com/translate_tts?tl=${language}&q=${encodeURIComponent(text)}&client=tw-ob`;
+    let source;
+    if (language === 'cs')
+      source = `https://translate.google.com/translate_tts?tl=sk&q=${encodeURIComponent(text)}&client=tw-ob`;
+    else
+      source = `https://translate.google.com/translate_tts?tl=${language}&q=${encodeURIComponent(text)}&client=tw-ob`;
     return new Audio(source);
   };
 

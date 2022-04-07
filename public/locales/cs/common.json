@@ -1,106 +1,106 @@
 {
   "header": {
     "vocabulary_link_name": "Slovníček",
-    "forkids_link_name": "Pro děti",
-    "exercises_link_name": "Cvičení",
+    "forkids_link_name": "Pre deti",
+    "exercises_link_name": "Cvičenia",
     "about_link_name": "O nás",
     "contacts_link_name": "Kontakty",
     "alphabet_link_name": "Abeceda"
   },
   "footer": {
-    "stand_with_ukraine_description": "Nezávislý informační rozcestník",
-    "help_ukraine_description": "Portál pro zprostředkování nabídek pomoci",
-    "czech_digital": "Skrz jedničky a nuly měníme Česko k lepšímu"
+    "stand_with_ukraine_description": "Nezávislý informačný rázcestník",
+    "help_ukraine_description": "Portál na sprostredkovanie ponúk pomoci",
+    "czech_digital": "Cez jednotky a nuly meníme Česko k lepšiemu"
   },
   "homepage": {
-    "title": "Naučte se základy češtiny a ukrajinštiny pro běžné životní situace",
+    "title": "Naučte sa základy slovenčiny a ukrajinčiny pre bežné životné situácie",
     "box_dictionary_title": "Slovníček",
-    "box_dictionary_description": "Naučte se stovky základních slovíček a frází čtením i poslechem. Slovíčka třídíme dle životních situací.",
-    "box_child_title": "Pro děti",
-    "box_child_description": "Ilustrovaný ukrajinsko-český slovníček s desítkami tisknutelných karet.",
+    "box_dictionary_description": "Naučte sa stovky základných slovíčok a fráz čítaním i počúvaním. Slovíčka triedime podľa životných situácií.",
+    "box_child_title": "Pre deti",
+    "box_child_description": "Ilustrovaný ukrajinsko-slovenský slovníček s desiatkami kariet na vytlačenie.",
     "box_alphabet_title": "Ukrajinská abeceda",
-    "box_alphabet_description": "Naučte se všechny znaky ukrajinské cyrilici. Pomohou vám ukázková slova.",
+    "box_alphabet_description": "Naučte sa všetky znaky ukrajinskej cyriliky. Pomôžu vám ukážkové slová.",
     "box_movapp_title": "Movapp je…",
-    "box_movapp_description_top": "мова [mova] znamená ukrajinsky jazyk. Movapp je aplikace pro trénink jazyků. Cílem Movapp.cz je usnadnit dorozumění mezi Čechy a Ukrajinci.",
-    "box_movapp_description_bottom": "Najdete tu přehled základních komunikačních frází v češtině a ukrajinštině. Brzy přidáme nástroje k jejich procvičování a rozcestník na materiály k učení."
+    "box_movapp_description_top": "мова [mova] znamená po ukrajinsky jazyk. Movapp je aplikácia na precvičovanie jazykov. Cieľom Movapp.cz je uľahčiť dorozumenie medzi Slovákmi a Ukrajincami.",
+    "box_movapp_description_bottom": "Nájdete tu prehľad základných komunikačných fráz v slovenčine a ukrajinčine. Čoskoro pridáme nástroje na ich precvičovanie a rázcestník učebných materiálov."
   },
   "dictionary_page": {
-    "title": "Česko-ukrajinský slovníček",
-    "search_button": "Hledat",
-    "search_placeholder": "Hledaný výraz",
-    "subtitle": "Vyberte si oblast",
-    "cs": "česky",
-    "uk": "ukrajinsky"
+    "title": "Slovensko-ukrajinský slovníček",
+    "search_button": "Hľadať",
+    "search_placeholder": "Hľadaný výraz",
+    "subtitle": "Vyberte si oblasť",
+    "cs": "po slovensky",
+    "uk": "po ukrajinsky"
   },
   "kids_page": {
-    "downloadPDF": "Stáhnout v PDF"
+    "downloadPDF": "Stiahnuť v PDF"
   },
   "about_page": {
-    "title": "<strong>Movapp.cz</strong> je projekt, který vznikl v rámci iniciativy <strong>Stojíme za Ukrajinou</strong> v komunitě expertních dobrovolníků <strong>Česko.Digital.</strong>",
-    "movapp_goal_title": "Cíl Movapp.cz",
-    "movapp_goal_description": "Cílem Movapp.cz je usnadnit dorozumění mezi Čechy a Ukrajinci. V první fázi byl vypublikován přehled základních česko-ukrajinských frází. V dalších fázích budeme vytvářet nástroje pro jejich procvičování a chceme se stát rozcestníkem pro další nástroje a materiály, které pomůžou s učením ukrajinštiny a češtiny.",
-    "why_movapp_title": "Proč Movapp?",
-    "why_movapp_mova": "<i>Mова [mova]</i> znamená ukrajinsky <i>jazyk</i>. Movapp je aplikace pro trénink jazyků.",
-    "why_movapp_description": "Movapp je k dispozici zdarma a je vytvářena jako otevřený software pod licencí MIT, to znamená, že ji můžete zdarma nejen používat, ale také si ji upravit (pokud umíte programovat).",
-    "why_movapp_license": "Texty, obrázky a audiosoubory Movapp jsou pod <0>licencí CC BY-NC 4.0</0>. (Uveďte původ-Neužívejte komerčně 4.0), což znamená, že je můžete pro vlastní potřeby používat zcela bez omezení. Pokud byste je chtěli dále šířit (v původní nebo v upravené podobě), můžete tak dělat pouze nekomerčním způsobem a s uvedením původních autorů.",
-    "why_movapp_origin": "Původní autorkou <0>základní sady slov a frází</0> je Tereza Javornická a Yevheniia Valova (EDUA Group). Tuto sadu udržuje a dále rozšiřuje tým Movapp.",
-    "our_team_title": "Náš tým",
-    "our_team_description": "Kořenovými členy týmu Movapp.cz jsou: Martin Hassman, Oleg Antonyak, Tatiana Chytilová, Petr Illek, Valeriia Kuna, Monika Fabryová, Juraj Uhlár, Bára Skálová, Tereza Javornická, Alena Burneleit, Anna Lamberová, Roman Žydyk a Martina Krejčí. A pomáhá jim řada dalších dobrovolníků.",
-    "our_team_illustrators": "Autorky ilustrací pro děti jsou: Alena Burneleit, Anna Lamberová, Lucie Lomová, Kateřina Vacková Mňuková a Marie Kraus.",
-    "our_team_contact": "Chcete nám pomoci s obsahem, nebo se jinak zapojit?<br/>Hledáte na nás <0>kontakt</0>?",
+    "title": "<strong>Movapp.cz</strong> je projekt, ktorý vznikol v rámci iniciatívy <strong>Stojíme za Ukrajinou</strong> v komunite expertných dobrovoľníkov <strong>Česko.Digital.</strong>",
+    "movapp_goal_title": "Cieľ Movapp.cz",
+    "movapp_goal_description": "Cieľom Movapp.cz je uľahčiť dorozumenie medzi Slovákmi a Ukrajincami. V prvej fáze bol publikovaný prehľad základných slovensko-ukrajinských fráz. V ďalších fázach budeme vytvárať nástroje na ich precvičovanie a chceme sa stať rázcestníkom pre ďalšie nástroje a materiály, ktoré pomôžu s učením ukrajinčiny a slovenčiny.",
+    "why_movapp_title": "Prečo Movapp?",
+    "why_movapp_mova": "<i>Mова [mova]</i> znamená po ukrajinsky <i>jazyk</i>. Movapp je aplikácia na precvičovanie jazykov.",
+    "why_movapp_description": "Movapp je k dispozícii zdarma a je tvorená ako otvorený software pod licenciou MIT, to znamená, že ju môžete zdarma nielen používať, ale si ju aj upravovať (ak viete programovať).",
+    "why_movapp_license": "Texty, obrázky a audiosúbory Movapp sú pod <0>licenciou CC BY-NC 4.0</0>. (Uveďte pôvod-Nepoužívajte na komerčné účely 4.0), čo znamená, že ich môžete pre vlastné potreby používať úplne bez obmedzení. Ak by ste ich chceli ďalej šíriť (v pôvodnej alebo v upravenej podobe), môžete tak robiť len nekomerčným spôsobom a s uvedením pôvodných autorov.",
+    "why_movapp_origin": "Pôvodnou autorkou <0>základného súboru slov a fráz</0> je Tereza Javornická a Yevheniia Valova (EDUA Group). Tento súbor udržuje a ďalej rozširuje tím Movapp.",
+    "our_team_title": "Náš tím",
+    "our_team_description": "Kmeňovými členmi tímu Movapp.cz sú: Martin Hassman, Oleg Antonyak, Tatiana Chytilová, Petr Illek, Valeriia Kuna, Monika Fabryová, Juraj Uhlár, Bára Skálová, Tereza Javornická, Alena Burneleit, Anna Lamberová, Roman Žydyk a Martina Krejčí. A pomáha im veľa ďalších dobrovoľníkov.",
+    "our_team_illustrators": "Autorkami ilustrácií pre deti sú: Alena Burneleit, Anna Lamberová, Lucie Lomová, Kateřina Vacková Mňuková a Marie Kraus.",
+    "our_team_contact": "Chcete nám pomôcť s obsahom, alebo sa inak zapojiť? <br/>Hľadáte na nás <0>kontakt</0>?",
     "stand_with_ukraine_title": "Stojíme za Ukrajinou",
-    "stand_with_ukraine_description": "<0>Stojíme za Ukrajinou</0> je iniciativa dobrovolníků napříč organizacemi a spolky. Jsme běžní řadoví občané, kterým není lhostejná současná situace související s válečným konfliktem vedeným Ruskem proti suverénní demokratické Ukrajině. Tato iniciativa vznikla přirozeně, vyrůstá z dlouhodobé podpory Ukrajiny po anexi Krymu, s eskalací napětí začala být ve veřejném prostoru zřejmá 19. února 2022 a od té doby organicky roste.",
+    "stand_with_ukraine_description": "<0>Stojíme za Ukrajinou</0> je iniciatíva dobrovoľníkov, ktorá prepája organizácie a združenia. Sme bežní radoví občania, ktorým nie je ľahostajná súčasná situácia súvisiaca s vojnovým konfliktom, ktorý vedie Rusko proti suverénnej demokratickej Ukrajine. Táto iniciatíva vznikla prirodzene, vyrastá z dlhodobej podpory Ukrajiny po anexii Krymu, s eskaláciou napätia začala byť vo verejnom priestore zrejmá 19. februára 2022 a od tej doby organicky rastie.",
     "czech_digital_title": "Česko.Digital",
-    "czech_digital_description": "<0>Česko.Digital</0> je komunita expertních dobrovolníků z mnoha oborů od IT přes projektové řízení až po marketing, kteří ve svém volném čase pomáhají státu a nestátním organizacím a mění tak Česko k lepšímu. Komunitu Česko.Digital založili v roce 2019 Jakub Nešetřil, Radka Horáková a Eva Pavlíková."
+    "czech_digital_description": "<0>Česko.Digital</0> je komunita expertných dobrovoľníkov z mnohých odborov od IT cez projektové riadenie až po marketing, ktorí vo svojom voľnom čase pomáhajú štátu a mimovládnym organizáciám a menia tak Česko k lepšiemu. Komunitu Česko.Digital založili v roku 2019 Jakub Nešetřil, Radka Horáková a Eva Pavlíková."
   },
   "contacts_page": {
     "title": "Kontakty",
-    "email_contact_title": "Kontaktní email:",
+    "email_contact_title": "Kontaktný email:",
     "email_contact_link": "pryvit@movapp.cz",
     "social_media": {
-      "social_media_title": "Najdete nás také na sociálních sítích:"
+      "social_media_title": "Nájdete nás aj na sociálnych sieťach:"
     },
-    "community_description": "Projekt Movapp vzniká v komunitě expertních dobrovolníků <0>Česko.Digital.</0>",
-    "join_title": "Přidejte se",
-    "join_description": "Chcete-li se stát členem týmu dobovolníků a pomáhat nám na dalším rozvoji projektu, vyplňte formulář na <0>cesko.digital/join</0> a přidejte se do Slacku. Najdete nás v kanálu <strong>ua-movapp</strong> (komunikujeme česky, slovensky, anglicky, a trochu také ukrajinsky)."
+    "community_description": "Projekt Movapp vzniká v komunite expertných dobrovoľníkov <0>Česko.Digital.</0>",
+    "join_title": "Pridajte sa",
+    "join_description": "Ak sa chcete stať členom tímu dobrovoľníkov a pomáhať nám pri ďalšom rozvoji projektu, vyplňte formulár na <0>cesko.digital/join</0> a pridajte sa do Slacku. Nájdete nás v kanáli <strong>ua-movapp</strong> (komunikujeme po česky, slovensky, anglicky a trochu aj po ukrajinsky)."
   },
   "alphabet_page":{
     "title": "{{cz_version}} abeceda",
     "description": "{{cz_version_description}}"
   },
   "seo": {
-    "homepage_page_title": "Movapp.cz – aby se Češi a Ukrajinci snadno domluvili",
-    "homepage_page_description": "Přehled základních česko-ukrajinských frází a nástroje k jejich procvičování. Rozcestník materiálů k učení. Vytvářeno s láskou.",
-    "dictionary_page_title": "Ukrajinsko-český slovník | Movapp.cz",
-    "dictionary_page_description": "Základní česko-ukrajinská slovíčka a fráze rozdělená podle životních situací. Vytvářeno s láskou.",
+    "homepage_page_title": "Movapp.cz – aby sa Češi / Slováci a Ukrajinci ľahko dorozumeli",
+    "homepage_page_description": "Prehľad základných slovensko-ukrajinských fráz a nástroje na ich precvičovanie. Rázcestník učebných materiálov. Vytvárané s láskou.",
+    "dictionary_page_title": "Ukrajinsko-slovenský slovník | Movapp.cz",
+    "dictionary_page_description": "Základné slovensko-ukrajinské slovíčka a frázy rozdelené podľa životných situácií. Vytvárané s láskou.",
     "contacts_page_title": "Kontakty | Movapp.cz",
-    "contacts_page_description": "Chcete se stát členem týmu a pomáhat na dalším rozvoji projektu?",
+    "contacts_page_description": "Chcete sa stať členom tímu a pomáhať pri ďalšom rozvoji projektu?",
     "about_page_title": "O nás | Movapp.cz",
-    "about_page_description": "Projekt vznikl v rámci iniciativy Stojíme za Ukrajinou v komunitě expertních dobrovolníků Česko.Digital.",
-    "alphabet_page_title": "Ukrajinská abeceda (cyrilice)",
-    "alphabet_page_description": "Naučte se ukrajinskou abecedu. Nazývá se také ukrajinská cyrilice nebo ukrajinská azbuka. Obsahuje 33 znaků a apostrof."
+    "about_page_description": "Projekt vznikol v rámci iniciatívy Stojíme za Ukrajinou v komunite expertných dobrovoľníkov Česko.Digital.",
+    "alphabet_page_title": "Ukrajinská abeceda (cyrilika)",
+    "alphabet_page_description": "Naučte sa ukrajinskú abecedu. Nazýva sa aj ukrajinská cyrilika alebo ukrajinská azbuka. Obsahuje 33 znakov a apostrof."
   },
   "export_translations": {
-    "download_phrases": "Stáhnout fráze",
-    "download": "Stáhnout",
-    "comma": "čárka",
-    "semicolon": "středník",
-    "new_line": "nová řádka",
-    "custom": "vlastní",
+    "download_phrases": "Stiahnuť frázy",
+    "download": "Stiahnuť",
+    "comma": "čiarka",
+    "semicolon": "bodkočiarka",
+    "new_line": "nový riadok",
+    "custom": "vlastné",
     "tab": "tabulátor",
-    "between_phrase_and_translation": "Mezi frází a překladem",
-    "between_phrases": "Mezi frázemi",
-    "sharing_info": "Obsah můžete pro své učely používat zdarma a bez omezení, šířit ho dál můžete jen za podmínek licence ",
-    "copy_to_clipboard": "Zkopírovat fráze do schránky",
-    "preview": "Náhled",
-    "transcriptions": "Transkripce",
-    "include_transcriptions": "Zapsat fráze v obou abecedách",
-    "all_phrases": "všechny fráze"
+    "between_phrase_and_translation": "Medzi frázou a prekladom",
+    "between_phrases": "Medzi frázami",
+    "sharing_info": "Obsah môžete na svoje účely používať zdarma a bez obmedzení, šíriť ho ďalej môžete len za podmienok licencie",
+    "copy_to_clipboard": "Skopírovať frázy do schránky",
+    "preview": "Náhľad",
+    "transcriptions": "Transkripcia",
+    "include_transcriptions": "Zapísať frázy v oboch abecedách",
+    "all_phrases": "všetky frázy"
   },
   "errors": {
-    "pageNotFound": "Stránka nebyla nalezena"
+    "pageNotFound": "Stránka sa nenašla"
   },
   "utils": {
-    "play": "přehrát"
+    "play": "prehrať"
   }
 }
