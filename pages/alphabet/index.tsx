@@ -4,7 +4,7 @@ import Head from 'next/head';
 import React, { useState } from 'react';
 import { AlphabetCard } from '../../components/basecomponents/AlphabetCard';
 import { LanguageSelect } from '../../components/basecomponents/LanguageSelect';
-import { ALPHABET_CZ } from '../../data/alphabets/cz_alphabet';
+import { ALPHABET_CZ } from '../../data/alphabets/sk_alphabet';
 import { ALPHABET_UA } from '../../data/alphabets/ua_alphabet';
 export { getStaticProps } from '../../utils/localization';
 
